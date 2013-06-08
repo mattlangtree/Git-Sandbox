@@ -1,7 +1,2 @@
 Title: New file that hasnt been added
 
-Main entry text
-
-✂------✂------✂------✂------✂------✂------✂------✂------✂------✂------
-
-Main entry continued
